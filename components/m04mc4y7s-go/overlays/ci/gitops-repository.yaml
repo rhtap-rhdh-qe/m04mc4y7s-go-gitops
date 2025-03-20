@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: m04mc4y7s-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/m04mc4y7s-go-gitops
